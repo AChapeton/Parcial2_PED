@@ -1,0 +1,9 @@
+C:\Users\Johan\source\repos\ejercicioide 3\ejercicioide 3\bin\Debug\ejercicioide 3.exe.config
+C:\Users\Johan\source\repos\ejercicioide 3\ejercicioide 3\bin\Debug\ejercicioide 3.exe
+C:\Users\Johan\source\repos\ejercicioide 3\ejercicioide 3\bin\Debug\ejercicioide 3.pdb
+C:\Users\Johan\source\repos\ejercicioide 3\ejercicioide 3\obj\Debug\ejercicioide 3.csprojAssemblyReference.cache
+C:\Users\Johan\source\repos\ejercicioide 3\ejercicioide 3\obj\Debug\ejercicioide_3.Form1.resources
+C:\Users\Johan\source\repos\ejercicioide 3\ejercicioide 3\obj\Debug\ejercicioide_3.Properties.Resources.resources
+C:\Users\Johan\source\repos\ejercicioide 3\ejercicioide 3\obj\Debug\ejercicioide 3.csproj.GenerateResource.cache
+C:\Users\Johan\source\repos\ejercicioide 3\ejercicioide 3\obj\Debug\ejercicioide 3.exe
+C:\Users\Johan\source\repos\ejercicioide 3\ejercicioide 3\obj\Debug\ejercicioide 3.pdb
