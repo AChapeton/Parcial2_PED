@@ -1,0 +1,10 @@
+C:\Users\chape\source\repos\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.exe.config
+C:\Users\chape\source\repos\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.exe
+C:\Users\chape\source\repos\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.pdb
+C:\Users\chape\source\repos\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.csprojAssemblyReference.cache
+C:\Users\chape\source\repos\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.Form1.resources
+C:\Users\chape\source\repos\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\chape\source\repos\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.csproj.GenerateResource.cache
+C:\Users\chape\source\repos\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.csproj.CoreCompileInputs.cache
+C:\Users\chape\source\repos\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.exe
+C:\Users\chape\source\repos\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.pdb
